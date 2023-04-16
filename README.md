@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://preview.redd.it/mpoasqj106581.png?width=640&crop=smart&auto=webp&s=9258ebc2a5b16eb13996d1223879b5efd7436418">
 <h1 align="center">Hi 👋, I'm Rim</h1>
 <p align="center">
    <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
@@ -27,7 +27,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+    <img src="https://upload-os-bbs.hoyolab.com/upload/2022/08/10/139527541/6a1f9e86a4d0eadab982dde6f4bd2bf9_4953112296420589655.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"width="48" height="48"/>
   </a>
   <a href="" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
