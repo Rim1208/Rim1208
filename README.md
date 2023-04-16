@@ -1,4 +1,4 @@
-<img align="left" width="350" src="https://preview.redd.it/mpoasqj106581.png?width=640&crop=smart&auto=webp&s=9258ebc2a5b16eb13996d1223879b5efd7436418">
+<img align="left" width="500" src="https://preview.redd.it/mpoasqj106581.png?width=640&crop=smart&auto=webp&s=9258ebc2a5b16eb13996d1223879b5efd7436418">
 <h1 align="center">Hi 👋, I'm Rim</h1>
 <p align="center">
    <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
