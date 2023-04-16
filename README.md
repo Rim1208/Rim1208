@@ -59,7 +59,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="dev" width="100%"/>
          <img src="https://media.tenor.com/t_6Bxax4encAAAAC/umaru-chan-anime.gif" alt="dev" width="100%"/>
       </p>
     </td>
