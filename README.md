@@ -11,7 +11,7 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial]()
+
 
 <p align="center">
   <a href="" target="_blank">
