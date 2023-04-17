@@ -1,15 +1,16 @@
 <img align="left" width="500" src="https://raw.githubusercontent.com/gist/Chuncheonian/0b458eb00f72d648e65d69ab08ca16b8/raw/91dfc8ec23b03cae760d6635d397aaf879f51c16/shiba.gif">
-<h1 align="center">Hi 👋, I'm Rim</h1>
+<h1 align="center">Hi 👋, I'm Rim</h1> 
+<img align="left" width="50" src="https://media.tenor.com/ugw8PESrI7sAAAAC/shiba-dog-jump.gif">
 <p align="center">
    <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
 
 - ✍ I'm an amateur editor
 
 <br />
 
 ## 📫 How to reach me:
+
 
 
 
@@ -33,7 +34,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-## Skills:
+## Skills: 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
