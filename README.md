@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/height="50" width="50">
   </a>
   <a href="" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
@@ -35,16 +35,16 @@
 </p>
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
 </p>
 
 ## Activities:
